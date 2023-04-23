@@ -26,7 +26,7 @@ const upload = multer({ storage });
 
 mongoose
   .connect(
-    "mongodb+srv://chiragkathoyeck:RSbl7Inc9KSjmXwl@pdfuploads.lnw5clp.mongodb.net/test",
+    "mongodb+srv://TelegramXeroxCenter:EC7KO1SYmJR9Q8DW@cluster0.ga4tmpi.mongodb.net/test",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => {
